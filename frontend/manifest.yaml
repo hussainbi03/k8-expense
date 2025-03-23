@@ -26,7 +26,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: hussainbi/frontend:1.1 .0
+        image: hussainbi/frontend:2.0 .0
 ---
 kind: Service
 apiVersion: v1
